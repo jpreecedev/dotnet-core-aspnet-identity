@@ -12,4 +12,4 @@ Issues encountered;
 - I didn't like the fact that the official MySQL connector for Entity Framework appears broken in .NET Core 2.2 and that I had to rely on a third party alternative.
 
 
-
+Maybe I made mistakes, maybe I missed the point.  That doesn't matter now because this is not the approach I want to take.
